@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "AdSetQDAAdSDK"
-  s.version      = "2.3.0"
+  s.version      = "2.3.11"
   s.summary      = "AdSet广告对接聚合类"
   s.description  = <<-DESC
                     AdSetQDAAdSDK 是一个专业的广告聚合SDK，提供高效的广告展示和收益优化功能。
